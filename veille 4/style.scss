@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+@import "sass/materialize";
+
+body{
+  background: linear-gradient(to bottom, #e0f2f1 0%,#80cbc4 60%, #26a69a 100%) no-repeat center fixed;
+}
+
+.input-field{
+  width:15em;
+  align-content: center;
+  margin-left: 2em;
+
+}
+.card-panel{
+  width: 25em;
+  margin-left: 33em;
+  margin-top:10em;
+  background-color: #e0f2f1;
+
+}
+.btn-large{
+  margin-left: 5em;
+}
+form{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+a {
+  margin-left: 8em;
+
+}
